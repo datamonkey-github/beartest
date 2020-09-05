@@ -1,2 +1,5 @@
-jupyterlab
 voila
+fastai
+pillow
+packaging
+ipywidgets
